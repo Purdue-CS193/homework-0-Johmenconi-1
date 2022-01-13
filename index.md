@@ -6,20 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-// John Menconi is awesome
-```markdown
-Syntax highlighted code block
-NEW words here
-# Header 1
-## Header 2
-### Header 3
+# John Menconi's First CS193 Homework
+- The class has fun Icebreakers
+- The Class has easy quizzes at the end of class
+- Quick and descriptive lectures
+- TA's are cool and relatable
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
