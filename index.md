@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 # John Menconi's First CS193 Homework
 - The class has fun Icebreakers
@@ -13,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - TA's are cool and relatable
 
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
